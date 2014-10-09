@@ -1,0 +1,10 @@
+Si lo ejecutamos con irb helloword.rb nos aparece por pantalla:
+
+helloworld.rb(main):001:0> puts "Hola Mundo"
+Hola Mundo
+=> nil
+helloworld.rb(main):002:0>
+
+Si lo ejecutamos con ruby helloword.rb aparece:
+
+Hola Mundo
